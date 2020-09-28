@@ -1,0 +1,5 @@
+﻿{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=OFEKPC;Initial Catalog=funpo_Nop410Development;Integrated Security=False;Persist Security Info=False;User ID=ofekpc;Password=f72p6stw",
+  "RawDataSettings": {}
+}
